@@ -4,6 +4,13 @@
 
 A terminal-based **Snake Game** built in C++ with a custom queue-based snake body, random fruit generation, and smooth movement. This is my own version, modified and improved from classic implementations to make it unique.  
 
+## Game Preview
+
+| Game Start | Game Over |
+|:----------:|:---------:|
+| ![Start](Game%20begins.png) | ![Over](Game%20over.png) |
+
+
 ---
 ## Features
 - Smooth ASCII-based snake movement  
